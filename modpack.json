@@ -1,25 +1,354 @@
 {
-    "forgeVersion":"1.12.2-14.23.5.2847",
+    "forgeVersion": "1.12.2-14.23.5.2854",
     "mods":{
         "urls":[
-        	{"url": "https://github.com/MrCrayfish/MrCrayfishDeviceMod/releases/download/v0.2.0pre6-1.12.2/device-api-0.2.0pre6-1.12.2.jar"}
-        ],
-        "curse":[
-            {   
+        	 ],
+        "curse": [
+            {
+                "name": "AI Improvements",
+                "projectId": "233019",
+                "fileId": "2450734"
+            },
+            {
+                "name": "Animania Base",
+                "projectId": "261199",
+                "fileId": "3142559"
+            },
+            {
+                "name": "Animania Farm",
+                "projectId": "407632",
+                "fileId": "3142564"
+            },
+            {
+                "name": "Animania Extra",
+                "projectId": "407657",
+                "fileId": "3142563"
+            },
+            {
+                "name": "Aquaculture",
+                "projectId": "60028",
+                "fileId": "2659258"
+            },
+            {
+                "name": "AutoRegLib",
+                "projectId": "250363",
+                "fileId": "2746011"
+            },
+            {
+                "name": "Baubles",
+                "projectId": "227083",
+                "fileId": "2518667"
+            },
+            {
+                "name": "Better Advancements",
+                "projectId": "272515",
+                "fileId": "2685984"
+            },
+            {
+                "name": "Better Animations Collection 2",
+                "projectId": "323976",
+                "fileId": "2762625"
+            },
+            {
+                "name": "Bibliocraft",
+                "projectId": "228027",
+                "fileId": "2574880"
+            },
+            {
+                "name": "Biome Bundle",
+                "projectId": "241542",
+                "fileId": "2505277"
+            },
+            {
+                "name": "Biomes O Plenty",
+                "projectId": "220318",
+                "fileId": "2715506"
+            },
+            {
+                "name": "BNBGamingLib",
+                "projectId": "229587",
+                "fileId": "2698688"
+            },
+            {
+                "name": "bspkrsCore",
+                "projectId": "59218",
+                "fileId": "2924423"
+            },
+            {
+                "name": "BuildCraft",
+                "projectId": "61811",
+                "fileId": "3072651"
+            },
+            {
+                "name": "Carry On",
+                "projectId": "274259",
+                "fileId": "3004475"
+            },
+            {
+                "name": "Chisel",
+                "projectId": "235279",
+                "fileId": "2915375"
+            },
+            {
+                "name": "CodeChicken Lib",
+                "projectId": "242818",
+                "fileId": "2779848"
+            },
+            {
+                "name": "CoFH Core",
+                "projectId": "69162",
+                "fileId": "2920433"
+            },
+            {
+                "name": "CoFH World",
+                "projectId": "271384",
+                "fileId": "2920434"
+            },
+            {
+                "name": "Constructs Armory",
+                "projectId": "287683",
+                "fileId": "2962662"
+            },
+            {
+                "name": "CoroUtil Library",
+                "projectId": "237749",
+                "fileId": "2902920"
+            },
+            {
+                "name": "Craftstudio API",
+                "projectId": "268704",
+                "fileId": "2661859"
+            },
+            {
+                "name": "CreativeCore",
+                "projectId": "257814",
+                "fileId": "3097498"
+            },
+            {
+                "name": "CTM",
+                "projectId": "267602",
+                "fileId": "2915363"
+            },
+            {
+                "name": "Doggy Talents",
+                "projectId": "271050",
+                "fileId": "3075311"
+            },
+            {
+                "name": "Farseek",
+                "projectId": "229708",
+                "fileId": "3093852"
+            },
+            {
+                "name": "IndustrialCraft 2",
+                "projectId": "242638",
+                "fileId": "2746892"
+            },
+            {
                 "name": "Inventory Tweaks",
-                "projectId":"223094",
-                "fileId": "2482481"
+                "projectId": "223094",
+                "fileId": "2923460"
             },
-            {   
-                "name": "Just Enough Items (JEI)",
-                "projectId":"238222",
-                "fileId": "2847112"
+            {
+                "name": "Iron Chest",
+                "projectId": "228756",
+                "fileId": "2747935"
             },
-            {   
+            {
                 "name": "JourneyMap",
-                "projectId":"32274",
+                "projectId": "32274",
                 "fileId": "2916002"
+            },
+            {
+                "name": "JEI",
+                "projectId": "238222",
+                "fileId": "3043174"
+            },
+            {
+                "name": "JER",
+                "projectId": "240630",
+                "fileId": "2728585"
+            },
+            {
+                "name": "LLibrary",
+                "projectId": "243298",
+                "fileId": "3116493"
+            },
+            {
+                "name": "Mantle",
+                "projectId": "74924",
+                "fileId": "2713386"
+            },
+            {
+                "name": "MrCrayfish Furniture",
+                "projectId": "55438",
+                "fileId": "2749993"
+            },
+            {
+                "name": "MrCrayfish Vehicle",
+                "projectId": "286660",
+                "fileId": "2967287"
+            },
+            {
+                "name": "NetherPortal Fix",
+                "projectId": "241160",
+                "fileId": "2612052"
+            },
+            {
+                "name": "Numina",
+                "projectId": "235440",
+                "fileId": "2715198"
+            },
+            {
+                "name": "Obfuscate",
+                "projectId": "289380",
+                "fileId": "2916310"
+            },
+            {
+                "name": "OMLib",
+                "projectId": "254334",
+                "fileId": "2871957"
+            },
+            {
+                "name": "Orelib Support",
+                "projectId": "307806",
+                "fileId": "2820815"
+            },
+            {
+                "name": "Pam's HarvestCraft",
+                "projectId": "221857",
+                "fileId": "2904825"
+            },
+            {
+                "name": "Placebo",
+                "projectId": "283644",
+                "fileId": "2694382"
+            },
+            {
+                "name": "ptrmodellib",
+                "projectId": "291499",
+                "fileId": "2685154"
+            },
+            {
+                "name": "Quark",
+                "projectId": "243121",
+                "fileId": "2889792"
+            },
+            {
+                "name": "RandomPatches",
+                "projectId": "285612",
+                "fileId": "3133651"
+            },
+            {
+                "name": "Rats",
+                "projectId": "323596",
+                "fileId": "3028671"
+            },
+            {
+                "name": "Redstone Flux",
+                "projectId": "270789",
+                "fileId": "2920436"
+            },
+            {
+                "name": "Resource Loader",
+                "projectId": "226447",
+                "fileId": "2477566"
+            },
+            {
+                "name": "Serene Seasons",
+                "projectId": "291874",
+                "fileId": "2799213"
+            },
+            {
+                "name": "Forgelin",
+                "projectId": "248453",
+                "fileId": "2785465"
+            },
+            {
+                "name": "Streams",
+                "projectId": "229769",
+                "fileId": "3109315"
+            },
+            {
+                "name": "Tektopia",
+                "projectId": "333029",
+                "fileId": "2763046"
+            },
+            {
+                "name": "Thaumcraft",
+                "projectId": "223628",
+                "fileId": "2629023"
+            },
+            {
+                "name": "Thermal Dynamics",
+                "projectId": "227443",
+                "fileId": "2920505"
+            },
+            {
+                "name": "Thermal Expansion",
+                "projectId": "69163",
+                "fileId": "2926431"
+            },
+            {
+                "name": "Thermal Foundation",
+                "projectId": "222880",
+                "fileId": "2926428"
+            },
+            {
+                "name": "TimeControl",
+                "projectId": "303570",
+                "fileId": "2620399"
+            },
+            {
+                "name": "Tinkers Tool Leveling",
+                "projectId": "250957",
+                "fileId": "2630860"
+            },
+            {
+                "name": "Tinkers Construct",
+                "projectId": "74072",
+                "fileId": "2902483"
+            },
+            {
+                "name": "Travelers Backpack",
+                "projectId": "321117",
+                "fileId": "3040858"
+            },
+            {
+                "name": "Treecapitator",
+                "projectId": "324007",
+                "fileId": "2722878"
+            },
+            {
+                "name": "Tweakers Construct",
+                "projectId": "282623",
+                "fileId": "3076992"
+            },
+            {
+                "name": "U Team Core",
+                "projectId": "273744",
+                "fileId": "2807722"
+            },
+            {
+                "name": "Unloader",
+                "projectId": "286230",
+                "fileId": "2572528"
+            },
+            {
+                "name": "Waila",
+                "projectId": "73488",
+                "fileId": "2417924"
+            },
+            {
+                "name": "YUNGs Better Caves",
+                "projectId": "340583",
+                "fileId": "3003242"
+            },
+            {
+                "name": "YUNGs Better Mineshafts",
+                "projectId": "389665",
+                "fileId": "3067998"
             }
-        ]    
+        ]
     }
 }
