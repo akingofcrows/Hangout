@@ -5,8 +5,8 @@ cd build
 git init
 git lfs track "*.zip"
 
-git config user.name "Travis CI"
-git config user.email "travis@travis-ci.org"
+git config user.name "akingofcrows"
+git config user.email "xmusashi@gmail.com"
 
 git add modpack.zip
 git commit -m "Deploy ${TRAVIS_COMMIT}"
