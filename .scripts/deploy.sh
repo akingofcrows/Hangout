@@ -13,5 +13,5 @@ git commit -m "Deploy ${TRAVIS_COMMIT}"
 
 # We redirect any output to
 # /dev/null to hide any sensitive credential data that might otherwise be exposed.
-git push git@github.com:akingofcrows/Hangout.git
+git push ssh://git@github.com:akingofcrows/Hangout.git
 echo 'Deploy on dist branch'
