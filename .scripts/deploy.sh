@@ -5,6 +5,7 @@ cd build
 git init
 git lfs track "*.zip"
 
+git config --global credential.helper manager
 git config user.name "akingofcrows"
 git config user.email "xmusashi@gmail.com"
 
