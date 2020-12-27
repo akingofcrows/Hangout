@@ -12,6 +12,8 @@ branches:
     - master
 
 before_install:
+  - git config --global user.email "tusharmath@gmail.com"
+  - git config --global user.name "Travis-CI"
   - sudo apt-get update
   - sudo apt-get install -y zip jq curl  
   - echo -e "machine github.com\n  login ${GH_DEPLOY_KEY}" > ~/.netrc
